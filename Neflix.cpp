@@ -1,4 +1,5 @@
 #include <iostream>
-int main() {
+int main() {git add .
+
     printf("Hello");
 }
